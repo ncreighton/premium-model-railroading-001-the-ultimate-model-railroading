@@ -1,0 +1,2 @@
+# premium-model-railroading-001-the-ultimate-model-railroading
+Tired of losing track of which locomotive has which DCC decoder, or accidentally buying a duplicate boxcar you already have? The Ultimate Model Railroading Tracker brings order to your chaos, so you can spend more time running trains and less time hunting for information.  This Notion template consolidates every aspect of your model railroad into o
